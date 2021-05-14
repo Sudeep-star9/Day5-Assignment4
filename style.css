@@ -1,0 +1,29 @@
+*{
+     margin: 0%;
+     /* box-sizing: border-box;  */
+} 
+.page-wrapper{
+    width: 98%;
+    padding-bottom: 2%;
+    border: 1px solid red;
+    margin:auto;
+    margin-top: 1%;
+}
+.top-container{
+    width: 95%;
+    border: 1px solid skyblue;
+    margin-top: 1%;
+    margin-left: 2%;
+}
+.top-box{
+    width: 80%;
+    padding-bottom: 2%;
+    background-color: green;
+    margin-left: 9%;
+}
+.page-wrapper1{
+    padding-bottom: 2%; 
+}
+.top-box1{
+    padding-bottom: 24%;
+}
